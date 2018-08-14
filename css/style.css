@@ -1,0 +1,19 @@
+.banner {
+    margin-bottom: 30px;
+}
+body {
+    background-color: #eceeef;
+}
+
+.messageView {
+	display: block;
+    position: relative;
+}    
+
+@media (min-width: 768px) { 
+    .banner {
+        margin-bottom: 70px;
+    }
+ }
+
+
